@@ -3,5 +3,5 @@ Amo a estética clássima do jogo, dos pcs antigos, não deu pra reproduzir aqui
 O jogo usa de matrizes, ponteiros, multiplas funções, alguns fors e bastante paciência.
 Jogue baixando o main.exe e abrindo-o, espero que goste.
 
-Dê uma estrelinha no repositóri e receberá uma boa notícia em 5 minutos 👀.
+Dê uma estrelinha no repositório e receberá uma boa notícia em 5 minutos 👀.
 (contém ironia)
