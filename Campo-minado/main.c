@@ -104,12 +104,19 @@ void teste(int tamanho, int matrixVisivel[tamanho][tamanho], int *jogadaEmi, int
         printf("\n 0 para espacos vazios \n");
         printf("\n 1, 2, 3 para casas perigosas \n");
         printf("\n numeros maiores que 10 para bombas \n");
+        FILE *fp;
+        fp = fopen("arq.txt", "a");
+        fprintf(fp," O campo do ultimo jogo foi:\n");
         for(int i = 0; i < tamanho; i++) {
-            for (int j = 0; j < tamanho; j++) {
+            for (int j = 0; j < tamanho; j++) {       
                 printf("   %2d   ",matrixVisivel[i][j]);
+                fprintf(fp,"    %2d    ",matrixVisivel[i][j]);
             }
             printf("\n\n");
+            fprintf(fp,"\n\n");
         }
+        fclose(fp);   
+        main();
     }
 
 
