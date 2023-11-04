@@ -3,5 +3,3 @@
 Jogue baixando o main.exe e abrindo-o, espero que goste.
 
 ⚔️ O jogo permite escolher o tamanho da batalha, 5x5, 10x10... até um tabuleiro de 1000x1000 se quiser, também é salvo, em um arquivo no computador, o tabuleiro a cada partida em que se pede o gabarito.
-
-🌟 Dê uma estrelinha no repositório.
